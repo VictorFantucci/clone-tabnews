@@ -21,9 +21,9 @@ function Home() {
           lineHeight: 1.6,
         }}
       >
-        “Eu juro pela minha Vida e pelo meu amor por ela que nunca irei viver em
-        função de outro homem, nem vou pedir a outro homem que viva em função de
-        mim.”
+        “Toda lenda precisa de um guardião. O Archivum preserva as histórias, os
+        segredos e a alma do meu universo - porque conhecimento é poder.
+        Arquive-o."
       </h1>
     </main>
   );
